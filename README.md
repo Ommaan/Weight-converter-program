@@ -1,0 +1,2 @@
+# Weight-converter-program
+The program is designed to convert weight values between pounds and kilograms. It prompts the user to enter their weight and whether it is in pounds or kilograms. Based on the user's input, the program performs the conversion and displays the converted weight in the desired unit. The user can input either 'L' or 'l' to indicate pounds, or 'K' or 'k' to indicate kilograms. The program correctly handles the conversion calculations and provides the converted weight output accordingly.
